@@ -32,6 +32,6 @@ The specific objectives of this analysis include:
 
 ✨ Used **Power Query Editor** to import, clean, and transform raw data into structured formats for analysis.
 
-✨ Used DAX queries to clean and uncover hidden insights given inside the data.
+✨ Used **DAX** queries to clean and uncover hidden insights given inside the data.
 
-✨ Extracted relationships within different tab;es within the data using **data modelling**.
+✨ Extracted relationships within different tables within the data using **data modelling**.
