@@ -29,6 +29,9 @@ The specific objectives of this analysis include:
 
 ## Key features
 ✨ Developed a detailed dashboard using **Power BI** to analyze data and key performance metrics such as goals scored, possession, and win rates, providing actionable insights for team performance and tournament trends.
+
 ✨ Used **Power Query Editor** to import, clean, and transform raw data into structured formats for analysis.
+
 ✨ Used DAX queries to clean and uncover hidden insights given inside the data.
+
 ✨ Extracted relationships within different tab;es within the data using **data modelling**.
